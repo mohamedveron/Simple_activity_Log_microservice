@@ -1,0 +1,9 @@
+com/logtask/jumiapay/Services/UserAction.class
+com/logtask/jumiapay/model/Request.class
+com/logtask/jumiapay/Services/Operation.class
+com/logtask/jumiapay/Services/CustomerService.class
+com/logtask/jumiapay/Services/Customer.class
+com/logtask/jumiapay/model/MongoDBConfiguration.class
+com/logtask/jumiapay/DAL/AuditRepository.class
+com/logtask/jumiapay/JumiaPayTaskApplication.class
+com/logtask/jumiapay/model/Audit.class
